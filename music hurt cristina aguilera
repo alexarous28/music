@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Multimedia Player</title>
+</head>
+<body>
+<h1>Multimedia Player </h1>
+<section>
+<h2> Christina Aguilera - Hurt</h2>
+<audio controls aria-label="descriptive label goes here"> 
+<source src="https://github.com/alexarous28/music/raw/refs/heads/main/Christina%20Aguilera%20-%20Hurt%20(Official%20Video).mp3"type="audio/mp3">
+</audio>
+</section>
+<section>
+<h2> Lyrics:</h2>
+<video  controls width="600" aria-label="descriptive label goes here"> <source src="https://github.com/alexarous28/music/raw/refs/heads/main/Christina%20Aguilera%20-%20Hurt%20(Official%20Video).mp4" type="video/mp4">
+  <track
+    kind="captions"
+    src="captions.vtt"
+    srclang="en"
+    label="English">
+</video>
+</section>
+<section>
+<h2> Transcript </h2>
+<p>Seems like it was yesterday
+When I saw your face
+You told me how proud you were
+But I walked away
+If only I knew
+What I know today </p>
+
+<p> I would hold you in my arms
+I would take the pain away
+Thank you for all you've done
+Forgive all your mistakes
+There's nothing I wouldn't do
+To hear your voice again
+Sometimes I wanna call you
+But I know you won't be there </p>
+
+<p> I'm sorry for
+Blaming you
+For everything
+I just couldn't do
+And I've hurt myself
+By hurting you </p>
+
+<p> Some days I feel broke inside
+But I wouldn't admit
+Sometimes I just wanna hide
+'Cause it's you I miss
+And it's so hard to say goodbye
+When comes to this </p>
+
+<p> Would you tell me I was wrong?
+Would you help me understand?
+Are you looking down upon me?
+Are you proud of who I am?
+There's nothing I wouldn't do
+To have just one more chance
+To look into your eyes
+And see you are looking back </p>
+
+<p> I'm sorry for
+Blaming you
+For everything
+I just couldn't do
+And I've hurt myself </p>
+
+<p> If I had just one more day
+I would tell you how much that I've missed you since you've been away
+It's dangerous
+It's so out of line
+To try and turn back time </p>
+
+<p> I'm sorry for
+Blaming you
+For everything
+I just couldn't do
+And I've hurt myself
+By hurting you </p>
+</section>
+</body>
+
+</html>
